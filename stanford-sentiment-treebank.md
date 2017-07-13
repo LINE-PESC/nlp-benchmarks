@@ -1,4 +1,4 @@
-Stanford Sentiment Treebank
+Stanford Sentiment Treebank (Socher et al., 2013)
 ==========================
 
 
@@ -13,7 +13,7 @@ Stanford Sentiment Treebank
 | 17.1%      | Matrix Vector-RNN | Socher et al., 2013b | |
 | 16.9%      | Bi-gram Naïve Bayes | Socher et al., 2013b | |
 | 14.6%      | Recursive Neural Tensor Network | Socher et al., 2013b | |
-| 12.2%      | Paragraph2Vec | Le and Mikolov 2014 | Using a mixture of PV-DM and PV-DBOW |
+| 12.2%      | Paragraph Vector | Le and Mikolov 2014 | Using a mixture of PV-DM and PV-DBOW |
 
 ### Fine-grained sentiment classification
 
@@ -26,7 +26,7 @@ Stanford Sentiment Treebank
 | 56.8%      | Recursive Neural Net | Socher et al., 2013b | |
 | 55.6%      | Matrix Vector-RNN | Socher et al., 2013b | |
 | 54.3%      | Recursive Neural Tensor Network | Socher et al., 2013b | |
-| 51.3%      | Paragraph2Vec | Le and Mikolov 2014 | Using a mixture of PV-DM and PV-DBOW |
+| 51.3%      | Paragraph Vector | Le and Mikolov 2014 | Using a mixture of PV-DM and PV-DBOW |
 
 #### References
 
