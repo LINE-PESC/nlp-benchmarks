@@ -8,8 +8,7 @@ Stanford Sentiment Treebank
 
 | Error rate |  Strategy | Reported by | Notes |
 |------------|-----------|-------------|-------|
-
-| 20.6%      | SVMs | Socher et al., 2013b | |
+| 20.6%      | SVMs | Socher et al., 2013b |  |
 | 19.9%      | Word Vector averaging | Socher et al., 2013b | |
 | 18.2%      | Naïve Bayes | Socher et al., 2013b | |
 | 17.6%      | Recursive Neural Nets | Socher et al., 2013b | |
