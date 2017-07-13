@@ -4,8 +4,6 @@ Stanford Sentiment Treebank
 
 ### Binary sentiment classification
 
-> Lower is better
-
 | Error rate |  Strategy | Reported by | Notes |
 |------------|-----------|-------------|-------|
 | 20.6%      | SVMs | Socher et al., 2013b |  |
@@ -19,6 +17,16 @@ Stanford Sentiment Treebank
 
 ### Fine-grained sentiment classification
 
+| Error rate |  Strategy | Reported by | Notes |
+|------------|-----------|-------------|-------|
+| 67.3%      | Word Vector averaging | Socher et al., 2013b |  |
+| 59.3%      | SVMs | Socher et al., 2013b | |
+| 59.0%      | Naïve Bayes | Socher et al., 2013b | |
+| 58.1%      | Bi-gram Naïve Bayes | Socher et al., 2013b | |
+| 56.8%      | Recursive Neural Net | Socher et al., 2013b | |
+| 55.6%      | Matrix Vector-RNN | Socher et al., 2013b | |
+| 54.3%      | Recursive Neural Tensor Network | Socher et al., 2013b | |
+| 51.3%      | Paragraph2Vec | Le and Mikolov 2014 | Using a mixture of PV-DM and PV-DBOW |
 
 #### References
 
