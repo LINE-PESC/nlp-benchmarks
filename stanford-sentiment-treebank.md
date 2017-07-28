@@ -3,7 +3,11 @@ Stanford Sentiment Treebank (Socher et al., 2013)
 
 Fully labeled parse trees. Every node in the trees are labelled according to the sentiment of the phrase it represents:
 
-![labelled parse tree](http://i.imgur.com/jL0JPnP.png)
+![labelled parse tree](http://i.imgur.com/cHp7pjT.png)
+
+*Adapted from Socher et al 2013b*
+
+
 
 
 ### Binary sentiment classification
