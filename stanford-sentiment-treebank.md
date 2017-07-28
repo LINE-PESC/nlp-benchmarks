@@ -6,10 +6,6 @@ Fully labeled parse trees. Every node in the trees are labelled according to the
 ![labelled parse tree]
 (http://i.imgur.com/jL0JPnP.png)
 
-  *Adapted from Socher et al 2013b*
-
-
-
 
 ### Binary sentiment classification
 
