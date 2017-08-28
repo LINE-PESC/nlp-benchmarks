@@ -1,6 +1,8 @@
 # nlp-benchmarks
 Simple repo, where I want to keep track of reported task results on common NLP tasks, using different datasets
 
+[Related: ACL: State of the Art](https://aclweb.org/aclwiki/State_of_the_art)
+
 ## Grouped by dataset/domain
 
 - [20 Newsgroups](https://github.com/queirozfcom/nlp-benchmarks/blob/master/20-newsgroups.md)
