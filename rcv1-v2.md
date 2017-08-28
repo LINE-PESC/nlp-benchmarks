@@ -1,4 +1,4 @@
-RCV1-v2
+RCV1-v2 (Lewis et al., 2004)
 ===========
 
 (http://www.jmlr.org/papers/volume5/lewis04a/lewis04a.pdf)
