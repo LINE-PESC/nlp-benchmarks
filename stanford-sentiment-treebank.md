@@ -10,8 +10,6 @@ Every node in the trees are labelled according to the sentiment of the phrase it
 *Adapted from Socher et al 2013b*
 
 
-
-
 ### Binary sentiment classification
 
 | Error rate |  Strategy | Reported by | Notes |

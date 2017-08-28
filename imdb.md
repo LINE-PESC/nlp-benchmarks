@@ -3,7 +3,6 @@ IMDB Dataset (Maas et al., 2011)
 
 [Link to Dataset](http://ai.stanford.edu/~amaas/data/sentiment/index.html)
 
-
 ### Binary sentiment classification
 
 | Error rate |  Strategy | Reported by | Notes |

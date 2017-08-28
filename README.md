@@ -9,7 +9,7 @@ Simple repo, where I want to keep track of reported task results on common NLP t
 
 - [BibSonomy ECML PKDD 2009](https://github.com/queirozfcom/nlp-benchmarks/blob/master/bibsonomy-ecml-pkdd-2009.md)
 
-- [CoNLL 2003 Named Entity Data](https://github.com/queirozfcom/nlp-benchmarks/blob/master/conll-2003-named-entity-data.md)
+- [CoNLL 2003 Named Entity Data (Sang and De Meulder 2003)](https://github.com/queirozfcom/nlp-benchmarks/blob/master/conll-2003-named-entity-data.md)
 
 - [Delicious Datasets](https://github.com/queirozfcom/nlp-benchmarks/blob/master/delicious.md)
 
@@ -23,6 +23,6 @@ Simple repo, where I want to keep track of reported task results on common NLP t
 
 - [Stackexchange Data: Kaggle 2013](https://github.com/queirozfcom/nlp-benchmarks/blob/master/stackexchange-kaggle.md)
 
-- [Stackoverflow Datasets]((https://github.com/queirozfcom/nlp-benchmarks/blob/master/stackoverflow.md))
+- [Stackoverflow Datasets](https://github.com/queirozfcom/nlp-benchmarks/blob/master/stackoverflow.md)
 
 - [Stanford Sentiment Treebank (Socher et al. 2013)](https://github.com/queirozfcom/nlp-benchmarks/blob/master/stanford-sentiment-treebank.md)

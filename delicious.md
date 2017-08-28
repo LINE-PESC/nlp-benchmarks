@@ -1,9 +1,8 @@
 del.icio.us data
 ===================
 
+	TODO
 
-
-
-TODO
+### References
 
 - Hu 2010: A Topic Modeling Approach to Social Tag Prediction 
