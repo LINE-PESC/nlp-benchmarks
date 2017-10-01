@@ -35,6 +35,7 @@ Bibsonomy Dataset (2009 ECML PKDD Challenge)
 | 0.3075 | Diffusion Rank | Si et al. 2009 | Personalized|
 | 0.305 | STRec | Gueye et al .2014 | Personalized |
 | 0.3018 | FDT  (Feature-Driven Tagging) Similar to Feature Engineering | Si et al. 2014 | Personalized |
+| 0.288 | PopRes | Rendle and Schmidt-Thieme 2009 | Not Personalized |
 | 0.285 | FolkRank | Gueye et al. 2014 | Personalized |
 | 0.2536 | PopRes (Most popular tags by resource)| Zhang et al. 2014 | Not personalized |
 | 0.2382 | Cosine on Content features | Zhang et al. 2014 | Not personalized |
@@ -45,10 +46,12 @@ Bibsonomy Dataset (2009 ECML PKDD Challenge)
 |------------|-----------|-------------|-------|
 | 0.4110 | PopRes,PopUser | Si et al. 2014 | Personalized, bibtex only |
 | 0.3959 | Content-based kNN | Si et al. 2014 | Personalized, bibtex only |
+| 0.351 | PopRes | Rendle and Schmidt-Thieme 2009 | Not personalized |
 | 0.3018 | FDT | Si et al. 2009 | Not personalized, bookmark only | 
 | 0.2646 | Search-based KNN (Mishne 2006) | Si et al. 2009 |  Not-personalized, bookmark only |
 | 0.2537 | Search-based KNN (Mishne 2006) | Si et al. 2009 |  Not-personalized, bibtex only |
 | 0.2478 | FDT | Si et al. 2014 | Not personalized, bibtex only |
+
 
 ### References
 
