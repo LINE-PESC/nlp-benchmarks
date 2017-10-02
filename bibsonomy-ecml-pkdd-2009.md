@@ -3,6 +3,39 @@ Bibsonomy Dataset (2009 ECML PKDD Challenge)
 
 [https://www.kde.cs.uni-kassel.de/ws/dc09/](https://www.kde.cs.uni-kassel.de/ws/dc09/)
 
+This dataset has tag-assignment information for resources hosted on BibSonomy.
+
+The resources are divided into two parts.
+
+### Part 1): bookmarks
+
+Information on bookmarks made by users on the website. Attributes include:
+
+- url
+- description
+- extended description
+- date added
+
+### Part 2): bibtex (Articles)
+
+Normal bibtex fields, such as:
+
+- title
+- abstract
+- description
+- authors
+
+### Dataset statistics:
+
+\# URLS (full dataset): 235,328
+\# Articles (full dataset): 143,050
+\# tags (full dataset): 93,756
+
+\# URLS (post-core 2): 14,443
+\# Articles (post-core 2): 7,946
+\# tags (post-core 2): 13,276
+
+
 ### Tag Prediction/Recommendation NOT on Post-core 2 (Task 1 of ECML PKDD)
 
 > I.e., only for resources,users and tags which have LESS than 2 assignments
