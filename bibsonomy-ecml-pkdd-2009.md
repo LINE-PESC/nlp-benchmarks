@@ -7,7 +7,7 @@ This dataset has tag-assignment information for resources hosted on BibSonomy.
 
 The resources are divided into two parts.
 
-### Part 1): bookmarks
+### Part 1): Bookmarks
 
 Information on bookmarks made by users on the website. Attributes include:
 
@@ -16,7 +16,7 @@ Information on bookmarks made by users on the website. Attributes include:
 - extended description
 - date added
 
-### Part 2): bibtex (Articles)
+### Part 2): Articles (bibtex)
 
 Normal bibtex fields, such as:
 
