@@ -27,13 +27,12 @@ Normal bibtex fields, such as:
 
 ### Dataset statistics:
 
-\# URLS (full dataset): 235,328
-\# Articles (full dataset): 143,050
-\# tags (full dataset): 93,756
-
-\# URLS (post-core 2): 14,443
-\# Articles (post-core 2): 7,946
-\# tags (post-core 2): 13,276
+-\# URLS (full dataset): 235,328
+-\# Articles (full dataset): 143,050
+-\# tags (full dataset): 93,756
+-\# URLS (post-core 2): 14,443
+-\# Articles (post-core 2): 7,946
+-\# tags (post-core 2): 13,276
 
 
 ### Tag Prediction/Recommendation NOT on Post-core 2 (Task 1 of ECML PKDD)
