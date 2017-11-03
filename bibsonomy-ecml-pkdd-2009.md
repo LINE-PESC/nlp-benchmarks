@@ -58,10 +58,10 @@ Normal bibtex fields, such as:
 | 0.35594 | PITF (Pairwise Interaction Tensor Factorization) | Rendle and Schmidt-Thieme 2009 | Personalized |
 | ~0.35 | FM (Factorization Machine) | Rendle 2010 | Personalized |
 | 0.34791 | FasTag + Blsc (a method to tune the number of recommended tags) | Gueye et al. 2014 | Personalized|
-| 0.33185 | Relational Classification | Marinho et al. 2009 | |
+| 0.33185 | Relational Classification | Marinho et al. 2009 |  |
 | 0.32461 |  Content-based| Lipczak et al. 2009 |  |
 | 0.32230 | Content-based | Zhang et al. 20009 | |
-| 0.3154 | SimRate | Zhang et al. 2014 | Personalized|
+| 0.3154 | SimRate | Zhang et al. 2014 | Personalized, Bookmarks only |
 | 0.315| FasTag (Similar to User-Based CF) | Gueye et al 2014 | Personalized|
 | 0.308 | maxarg(t) of p(t|u,i) | Gueye et al. 2014 | Personalized|
 | 0.3075 | Diffusion Rank | Si et al. 2009 | Personalized|
@@ -69,8 +69,8 @@ Normal bibtex fields, such as:
 | 0.3018 | FDT  (Feature-Driven Tagging) Similar to Feature Engineering | Si et al. 2014 | Personalized |
 | 0.288 | PopRes | Rendle and Schmidt-Thieme 2009 | Not Personalized |
 | 0.285 | FolkRank | Gueye et al. 2014 | Personalized |
-| 0.2536 | PopRes (Most popular tags by resource)| Zhang et al. 2014 | Not personalized |
-| 0.2382 | Cosine on Content features | Zhang et al. 2014 | Not personalized |
+| 0.2536 | PopRes (Most popular tags by resource)| Zhang and Yu 2014 | Not personalized, Bookmarks only |
+| 0.2382 | Cosine on TAS features | Zhang and Yu 2014 | Personalized, Bookmarks only |
 
 ### Tag Prediction/Recommendation on Post-core 2 (Results on Training set (via CV))
 
@@ -99,5 +99,5 @@ Normal bibtex fields, such as:
 
 - Gueye et al. 2014: A Social and Popularity-Based Tag Recommender 
 
-- Zhang et al. 2014: Hybrid Personalized Tag Recommendation Algorithm Design and Evaluation
+- Zhang and Yu 2014: Hybrid Personalized Tag Recommendation Algorithm Design and Evaluation
 

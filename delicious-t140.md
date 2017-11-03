@@ -3,7 +3,14 @@ del.icio.us t-140 dataset (Zubiaga et al., 2009)
 
 [Link to dataset](http://nlp.uned.es/social-tagging/delicioust140/)
 
-Dataset with resources and tags, only the top 140 most used tags are reported.
+Dataset containing data from the delicious website, crawled in June 2008.
+
+only the top 140 most used tags are reported.
+
+### Dataset statistics
+
+- \# Bookmarks: 144,574
+- \# Tags: 67,104
 
 ### Notes
 
@@ -64,7 +71,7 @@ Dataset with resources and tags, only the top 140 most used tags are reported.
 
 ### References
 
-- Zubiaga et al., 2009: Content-based Clustering for Tag Cloud Visualization
+- [Zubiaga et al., 2009: Content-based Clustering for Tag Cloud Visualization](http://ieeexplore.ieee.org/document/5231851/)
 
 - Bordes et al. 2013: Translating Embeddings for Modeling Multi-relational Data
 
